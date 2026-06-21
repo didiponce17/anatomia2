@@ -1,0 +1,2122 @@
+{
+  "meta": {
+    "title": "Anatomía Humana — Sistema Respiratorio y Digestivo",
+    "student": "Lucía",
+    "version": "1.0",
+    "language": "es-CR",
+    "sources": [
+      "Clase 6 - Sistema Respiratorio.pdf",
+      "Clase 7 - Sistema Digestivo.pdf",
+      "Partes - Sistema Respiratorio.pdf",
+      "Partes - Sistema Digestivo.pdf",
+      "Primer Parcial - Anatomía Humana.pdf"
+    ],
+    "examStyle": [
+      "Selección única — marcar con X (1 punto cada una).",
+      "Pareo — relacionar términos con definiciones.",
+      "Interrogación / respuesta corta."
+    ]
+  },
+  "weaknesses": [
+    {
+      "pattern": "Confunde clasificaciones similares",
+      "evidence": "Tachones en P1 del parcial (sutura ≈ sincondrosis).",
+      "applyTo": "Faringe (3 partes), Esófago (3 estrechamientos), Diente (3 regiones), Estómago (4 regiones).",
+      "tip": "Memorizar siempre con iniciales en orden: NOL, CTF, CCR, CFCP."
+    },
+    {
+      "pattern": "Mezcla términos parecidos",
+      "evidence": "Tachones en preguntas de arterias (marginal vs circunfleja).",
+      "applyTo": "Hepático común vs colédoco, Wirsung vs Santorini, EES vs EEI, cuerdas falsas vs verdaderas.",
+      "tip": "Estudiar en pareja contrastada, no en lista."
+    },
+    {
+      "pattern": "Verdadero/Falso invertido",
+      "evidence": "P5 y P11 del parcial: marcó V y F al mismo tiempo.",
+      "applyTo": "Cualquier pregunta V/F.",
+      "tip": "Leer la frase dos veces, subrayar palabras absolutas (todos, siempre, ningún)."
+    },
+    {
+      "pattern": "Confunde voluntario / involuntario",
+      "evidence": "Anotaciones en P17 sobre tipos de músculo.",
+      "applyTo": "Esfínter anal interno/externo, EES/EEI, tercio superior/inferior del esófago.",
+      "tip": "Regla: externo = voluntario; interno = involuntario."
+    },
+    {
+      "pattern": "Confunde regiones abdominales y D vs I",
+      "evidence": "P22 (apéndice) y P26 (huesos coxales) del parcial.",
+      "applyTo": "Lóbulos pulmonares, curvaturas estómago, flexuras del colon, vesícula.",
+      "tip": "Reglita: D = 3 lóbulos / I = 2 lóbulos. Hepático abajo del hígado, Esplénico abajo del bazo."
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "system": "respiratorio",
+      "title": "Nariz externa",
+      "idea_central": "Estructura ósea y cartilaginosa que filtra, calienta y humedece el aire.",
+      "explanation": [
+        "Armazón óseo + cartílago hialino, cubierto por músculo, piel y mucosa.",
+        "Huesos: Frontal, Nasales, Maxilar.",
+        "Cartílagos: Septal (tabique), Nasales laterales, Alares.",
+        "Narinas = 2 orificios nasales externos.",
+        "Funciones: calentar, humedecer, filtrar el aire; olfato y resonancia."
+      ],
+      "key_points": [
+        "3 huesos: Frontal, Nasal, Maxilar.",
+        "3 cartílagos: Septal, Laterales, Alares.",
+        "Funciones CHF: Calienta, Humedece, Filtra."
+      ],
+      "concepts": [
+        {
+          "term": "Narinas",
+          "definition": "Orificios externos por donde entra el aire a la nariz."
+        },
+        {
+          "term": "Cartílago hialino",
+          "definition": "Cartílago elástico que da forma a la nariz."
+        }
+      ],
+      "mnemonic": "F-N-M sostiene la nariz; S-L-A le da forma. Funciones = CHF.",
+      "image_ref": "Partes - Sistema Respiratorio.pdf p.3-4",
+      "questions": [
+        {
+          "id": "q1-1",
+          "type": "multiple",
+          "prompt": "¿Cuáles huesos forman la estructura ósea de la nariz externa?",
+          "options": [
+            "Frontal, Nasales y Maxilar",
+            "Frontal, Etmoides y Esfenoides",
+            "Nasales, Maxilar y Vómer",
+            "Frontal, Cigomático y Maxilar"
+          ],
+          "answer": 0,
+          "explanation": "Los huesos de la nariz externa son Frontal, Nasales y Maxilar (Clase 6, p.7).",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q1-2",
+          "type": "multiple",
+          "prompt": "¿Cuál NO es una función de la nariz externa?",
+          "options": [
+            "Calentamiento del aire inhalado",
+            "Humectación del aire inhalado",
+            "Filtración del aire inhalado",
+            "Producción de bilis"
+          ],
+          "answer": 3,
+          "explanation": "Las funciones son calentar, humedecer y filtrar el aire, además de olfato y resonancia. La bilis es función hepática.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q1-3",
+          "type": "x",
+          "prompt": "Marque con X. Los cartílagos de la nariz externa son:",
+          "options": [
+            "Septal, Nasales laterales y Alares",
+            "Tiroides, Cricoides y Aritenoides",
+            "Hialino, Elástico y Fibroso",
+            "Frontal, Maxilar y Nasal"
+          ],
+          "answer": 0,
+          "explanation": "Los cartílagos de la nariz son: Septal (tabique), Nasales laterales y Alares.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q1-4",
+          "type": "short",
+          "prompt": "¿Cómo se llaman los 2 orificios externos de la nariz?",
+          "answer": "Narinas",
+          "explanation": "Narinas = orificios nasales externos (aperturas de la nariz externa).",
+          "difficulty": "bajo"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_02.png",
+          "caption": "Vista general etiquetada (p.56): localiza la nariz dentro del sistema respiratorio"
+        },
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_03.png",
+          "caption": "Vista general SIN etiquetas (p.57): intenta nombrar las partes"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "system": "respiratorio",
+      "title": "Cavidad nasal y nariz interna",
+      "idea_central": "Gran cavidad anterior del cráneo que se comunica con la faringe por 2 coanas.",
+      "explanation": [
+        "Se comunica con la faringe por 2 coanas.",
+        "Vestíbulo: porción anterior de la cavidad nasal.",
+        "Tabique nasal divide la nariz en D e I: cartílago + huesos vómer, etmoides, maxilar y palatino.",
+        "Cornetes dividen la cavidad en meatos: superior, medio e inferior.",
+        "En la nariz interna drenan los senos paranasales y el conducto nasolagrimal."
+      ],
+      "key_points": [
+        "Coanas = 2 salidas hacia la faringe.",
+        "Tabique = Vómer + Etmoides + Maxilar + Palatino (VEMP) + cartílago.",
+        "Meatos: Superior, Medio, Inferior (SMI)."
+      ],
+      "concepts": [
+        {
+          "term": "Coanas",
+          "definition": "Aperturas que comunican la nariz interna con la faringe."
+        },
+        {
+          "term": "Meato",
+          "definition": "Conducto entre cornetes por donde fluye el aire."
+        },
+        {
+          "term": "Vestíbulo nasal",
+          "definition": "Zona anterior de la cavidad nasal."
+        }
+      ],
+      "mnemonic": "Tabique = VEMP. Meatos = SMI (Superior, Medio, Inferior).",
+      "image_ref": "Partes - Sistema Respiratorio.pdf p.4-5 (cortes nasales)",
+      "questions": [
+        {
+          "id": "q2-1",
+          "type": "multiple",
+          "prompt": "¿Qué huesos forman el tabique nasal junto con el cartílago septal?",
+          "options": [
+            "Frontal, Nasal, Maxilar y Cigomático",
+            "Vómer, Etmoides, Maxilar y Palatino",
+            "Esfenoides, Etmoides, Frontal y Maxilar",
+            "Nasales, Palatino, Vómer y Cigomático"
+          ],
+          "answer": 1,
+          "explanation": "El tabique nasal está formado por cartílago septal + huesos Vómer, Etmoides, Maxilar y Palatino (VEMP).",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q2-2",
+          "type": "multiple",
+          "prompt": "Los cornetes nasales dividen la cavidad nasal en conductos llamados:",
+          "options": [
+            "Coanas",
+            "Vestíbulos",
+            "Meatos",
+            "Senos"
+          ],
+          "answer": 2,
+          "explanation": "Los cornetes (superior, medio e inferior) dividen la cavidad en meatos.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q2-3",
+          "type": "x",
+          "prompt": "Marque con X la afirmación verdadera sobre la nariz interna:",
+          "options": [
+            "Se comunica con la faringe por 4 coanas",
+            "Sólo recibe el drenaje del conducto auditivo",
+            "Se comunica con la faringe por 2 coanas y recibe drenaje de senos paranasales y nasolagrimal",
+            "Está separada de la faringe por la úvula"
+          ],
+          "answer": 2,
+          "explanation": "La nariz interna se comunica con la faringe por 2 coanas. En ella drenan los senos paranasales y el conducto nasolagrimal.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q2-4",
+          "type": "short",
+          "prompt": "¿Cómo se llama la porción anterior de la cavidad nasal?",
+          "answer": "Vestíbulo",
+          "explanation": "El vestíbulo es la porción anterior de la cavidad nasal.",
+          "difficulty": "bajo"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_04.png",
+          "caption": "Sistema respiratorio superior etiquetado (p.58): cavidad nasal, meatos, paladar duro/blando"
+        },
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_05.png",
+          "caption": "Sistema respiratorio superior SIN etiquetas (p.59): auto-evaluación"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "system": "respiratorio",
+      "title": "Senos paranasales",
+      "idea_central": "Cavidades aéreas en 4 huesos del cráneo; producen moco y dan resonancia.",
+      "explanation": [
+        "Están en 4 huesos: Frontal, Esfenoides, Etmoides y Maxilar.",
+        "Funciones: producen moco y son cámaras de resonancia.",
+        "Drenan en la nariz interna."
+      ],
+      "key_points": [
+        "4 huesos: FEEM (Frontal, Etmoides, Esfenoides, Maxilar).",
+        "Funciones: moco + resonancia.",
+        "Drenan en la nariz interna."
+      ],
+      "concepts": [
+        {
+          "term": "Seno paranasal",
+          "definition": "Cavidad aérea dentro de un hueso del cráneo."
+        }
+      ],
+      "mnemonic": "FEEM moja y resuena.",
+      "image_ref": "Aquí debería ir imagen de senos paranasales frontal.",
+      "questions": [
+        {
+          "id": "q3-1",
+          "type": "multiple",
+          "prompt": "¿En cuáles huesos se localizan los senos paranasales?",
+          "options": [
+            "Frontal, Maxilar, Cigomático y Palatino",
+            "Frontal, Esfenoides, Etmoides y Maxilar",
+            "Frontal, Nasal, Vómer y Maxilar",
+            "Etmoides, Vómer, Nasal y Palatino"
+          ],
+          "answer": 1,
+          "explanation": "Los senos paranasales se localizan en los huesos Frontal, Esfenoides, Etmoides y Maxilar (FEEM).",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q3-2",
+          "type": "x",
+          "prompt": "Marque con X las dos funciones de los senos paranasales:",
+          "options": [
+            "Producen moco y son cámaras de resonancia",
+            "Filtran el aire y producen lágrimas",
+            "Almacenan saliva y producen sonido",
+            "Producen olfato y filtran microbios"
+          ],
+          "answer": 0,
+          "explanation": "Los senos paranasales producen moco y funcionan como cámaras de resonancia.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q3-3",
+          "type": "short",
+          "prompt": "¿Hacia dónde drenan los conductos de los senos paranasales?",
+          "answer": "Nariz interna",
+          "explanation": "Los conductos de los senos paranasales drenan en la nariz interna, igual que el conducto nasolagrimal.",
+          "difficulty": "bajo"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_04.png",
+          "caption": "Sistema respiratorio superior etiquetado (p.58): muestra senos nasales"
+        },
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_05.png",
+          "caption": "Sistema respiratorio superior SIN etiquetas (p.59): identifica los senos paranasales"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "system": "respiratorio",
+      "title": "Faringe (3 partes)",
+      "idea_central": "Conducto en embudo que sirve de paso para aire y alimentos.",
+      "explanation": [
+        "Empieza en las fosas nasales internas y termina en el cartílago cricoides.",
+        "3 porciones de arriba a abajo: Nasofaringe → Orofaringe → Laringofaringe (hipofaringe).",
+        "Nasofaringe: detrás de la cavidad nasal hasta el paladar blando. Contiene la amígdala faríngea y se abren las 2 trompas auditivas (Eustaquio).",
+        "Orofaringe: del paladar blando al hueso hioides. Una apertura: istmo de las fauces. Contiene amígdalas palatinas y linguales. Paso común aire/alimento/líquido.",
+        "Laringofaringe: desde el hioides; se abre al esófago y a la laringe. Vía digestiva y respiratoria."
+      ],
+      "key_points": [
+        "Orden de arriba a abajo: NOL (Naso, Oro, Laringo).",
+        "Amígdala faríngea en nasofaringe; palatinas y linguales en orofaringe.",
+        "En la laringofaringe se separan los caminos: aire → laringe, comida → esófago."
+      ],
+      "concepts": [
+        {
+          "term": "Coanas",
+          "definition": "Entradas de la nasofaringe desde la cavidad nasal."
+        },
+        {
+          "term": "Istmo de las fauces",
+          "definition": "Paso entre la boca y la orofaringe."
+        },
+        {
+          "term": "Trompa auditiva (Eustaquio)",
+          "definition": "Conducto que comunica oído medio con nasofaringe."
+        }
+      ],
+      "mnemonic": "NOL de arriba a abajo. Faríngea arriba, palatinas y linguales en el medio.",
+      "image_ref": "Partes - Sistema Respiratorio.pdf p.4 (corte sagital)",
+      "questions": [
+        {
+          "id": "q4-1",
+          "type": "multiple",
+          "prompt": "¿En qué porción de la faringe se encuentran las trompas auditivas (de Eustaquio)?",
+          "options": [
+            "Orofaringe",
+            "Laringofaringe",
+            "Nasofaringe",
+            "Hipofaringe"
+          ],
+          "answer": 2,
+          "explanation": "Las trompas auditivas se abren en la nasofaringe, junto con la amígdala faríngea.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q4-2",
+          "type": "multiple",
+          "prompt": "¿Qué porción de la faringe sirve tanto al aparato digestivo como al respiratorio?",
+          "options": [
+            "Nasofaringe",
+            "Orofaringe",
+            "Laringofaringe (hipofaringe)",
+            "Solo la nasofaringe"
+          ],
+          "answer": 2,
+          "explanation": "La laringofaringe (hipofaringe) se abre hacia el esófago y la laringe; es vía respiratoria y digestiva. La orofaringe también es paso común aire/alimento, pero la pregunta pide la porción donde se separan ambas vías.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q4-3",
+          "type": "x",
+          "prompt": "Marque con X. En la orofaringe se encuentran:",
+          "options": [
+            "La amígdala faríngea",
+            "Las amígdalas palatinas y linguales",
+            "Las trompas auditivas",
+            "Las coanas"
+          ],
+          "answer": 1,
+          "explanation": "En la orofaringe están las amígdalas palatinas y linguales. La faríngea está en la nasofaringe.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q4-4",
+          "type": "pareo",
+          "prompt": "Pareo: relacione cada porción de la faringe con su contenido o característica.",
+          "left": [
+            "Nasofaringe",
+            "Orofaringe",
+            "Laringofaringe"
+          ],
+          "right": [
+            "Amígdala faríngea y trompas auditivas",
+            "Amígdalas palatinas y linguales; istmo de las fauces",
+            "Se abre al esófago y la laringe"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Nasofaringe: amígdala faríngea + trompas auditivas. Orofaringe: amígdalas palatinas y linguales. Laringofaringe: se abre a esófago y laringe.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q4-5",
+          "type": "short",
+          "prompt": "¿Dónde termina inferiormente la faringe?",
+          "answer": "En el cartílago cricoides",
+          "explanation": "La faringe termina a nivel del cartílago cricoides; allí inicia la laringe.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_04.png",
+          "caption": "Sistema respiratorio superior etiquetado (p.58): amígdalas faríngea/palatina/lingual + úvula"
+        },
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_05.png",
+          "caption": "Sistema respiratorio superior SIN etiquetas (p.59): identifica las 3 porciones de la faringe"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "system": "respiratorio",
+      "title": "Laringe y cuerdas vocales",
+      "idea_central": "Conecta laringofaringe con tráquea; tiene 9 cartílagos y produce la voz.",
+      "explanation": [
+        "Está en la línea media del cuello, delante del esófago.",
+        "9 cartílagos: 3 impares (Tiroides, Epiglotis, Cricoides) y 3 pares (Aritenoides, Cuneiforme, Corniculados).",
+        "Glotis: par de pliegues de mucosa + espacio entre ellos llamado rima o hendidura glótica.",
+        "La mucosa forma 2 pares de pliegues: vestibulares (cuerdas falsas, superiores) y vocales (cuerdas verdaderas, inferiores).",
+        "Tiroides = nuez de Adán; Epiglotis tapa la laringe al tragar; Cricoides forma un anillo completo."
+      ],
+      "key_points": [
+        "9 cartílagos = 3 impares (TEC) + 3 pares (ACC).",
+        "Cuerdas verdaderas = pliegues vocales (inferiores).",
+        "Glotis = pliegues vocales + rima glótica."
+      ],
+      "concepts": [
+        {
+          "term": "Tiroides",
+          "definition": "Cartílago impar más prominente; 'nuez de Adán'."
+        },
+        {
+          "term": "Epiglotis",
+          "definition": "Cartílago impar que tapa la laringe al tragar."
+        },
+        {
+          "term": "Cricoides",
+          "definition": "Cartílago impar en anillo completo; marca el final de la faringe."
+        },
+        {
+          "term": "Rima glótica",
+          "definition": "Espacio entre las dos cuerdas vocales verdaderas."
+        }
+      ],
+      "mnemonic": "Impares = TEC; Pares = ACC. Las verdaderas hablan, las falsas vestían (vestibulares).",
+      "image_ref": "Partes - Sistema Respiratorio.pdf p.4 (cartílagos rotulados)",
+      "questions": [
+        {
+          "id": "q5-1",
+          "type": "multiple",
+          "prompt": "¿Cuántos cartílagos tiene la laringe?",
+          "options": [
+            "5 (3 impares + 1 par)",
+            "9 (3 impares + 3 pares)",
+            "7 (4 impares + 3 pares)",
+            "12 (todos pares)"
+          ],
+          "answer": 1,
+          "explanation": "La laringe tiene 9 cartílagos: 3 impares (Tiroides, Epiglotis, Cricoides) + 3 pares (Aritenoides, Cuneiforme, Corniculados).",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q5-2",
+          "type": "multiple",
+          "prompt": "¿Cuáles son los cartílagos IMPARES de la laringe?",
+          "options": [
+            "Aritenoides, Cuneiforme y Corniculados",
+            "Tiroides, Epiglotis y Cricoides",
+            "Tiroides, Aritenoides y Cricoides",
+            "Epiglotis, Cuneiforme y Aritenoides"
+          ],
+          "answer": 1,
+          "explanation": "Los impares son Tiroides, Epiglotis y Cricoides (TEC).",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q5-3",
+          "type": "x",
+          "prompt": "Marque con X. Las cuerdas vocales verdaderas son:",
+          "options": [
+            "Los pliegues vestibulares (superiores)",
+            "Los pliegues vocales (inferiores)",
+            "La rima glótica",
+            "Los cartílagos corniculados"
+          ],
+          "answer": 1,
+          "explanation": "Las cuerdas vocales verdaderas son los pliegues vocales, ubicados inferiormente. Las falsas son los vestibulares (superiores).",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q5-4",
+          "type": "pareo",
+          "prompt": "Pareo: relacione cada cartílago laríngeo con su característica.",
+          "left": [
+            "Tiroides",
+            "Epiglotis",
+            "Cricoides",
+            "Aritenoides"
+          ],
+          "right": [
+            "Cartílago par",
+            "'Nuez de Adán'",
+            "Forma anillo completo",
+            "Tapa la laringe al tragar"
+          ],
+          "answer": [
+            1,
+            3,
+            2,
+            0
+          ],
+          "explanation": "Tiroides = nuez de Adán. Epiglotis = tapa la laringe al tragar. Cricoides = anillo completo. Aritenoides = par.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q5-5",
+          "type": "short",
+          "prompt": "¿Cómo se llama el espacio entre las dos cuerdas vocales verdaderas?",
+          "answer": "Rima (o hendidura) glótica",
+          "explanation": "La rima glótica es el espacio entre los dos pliegues vocales; forma parte de la glotis.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_04.png",
+          "caption": "Sistema respiratorio superior etiquetado (p.58): cartílago tiroides y cuerdas vocales"
+        },
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_05.png",
+          "caption": "Sistema respiratorio superior SIN etiquetas (p.59): localiza la laringe"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "system": "respiratorio",
+      "title": "Tráquea y árbol bronquial",
+      "idea_central": "Tubo aéreo con cartílagos en C que se divide en bronquios hacia los pulmones.",
+      "explanation": [
+        "Conducto tubular, delante del esófago, va de la laringe a la 5ª vértebra torácica (T5).",
+        "Se divide en bronquios primarios D e I; la cresta interna de bifurcación se llama carina.",
+        "Tiene 16 a 20 cartílagos hialinos en forma de C.",
+        "Árbol bronquial: primarios (1 por pulmón) → secundarios o lobulares (3 D / 2 I) → terciarios o segmentarios (10 por pulmón).",
+        "Bronquiolos terminales → respiratorios → conductos alveolares. Desde la tráquea hasta los alveolares hay ~25 divisiones."
+      ],
+      "key_points": [
+        "16 a 20 cartílagos hialinos en C.",
+        "Bronquios secundarios: 3 D / 2 I (igual al número de lóbulos).",
+        "Carina = cresta cartilaginosa en la bifurcación traqueal."
+      ],
+      "concepts": [
+        {
+          "term": "Carina",
+          "definition": "Cresta cartilaginosa en la bifurcación de la tráquea en bronquios primarios."
+        },
+        {
+          "term": "Segmento broncopulmonar",
+          "definition": "Unidad funcional del pulmón; 10 por pulmón."
+        },
+        {
+          "term": "Lobulillo pulmonar",
+          "definition": "Subunidad del segmento con arteriola, vénula, linfático y bronquiolo terminal."
+        }
+      ],
+      "mnemonic": "3 D / 2 I (igual a los lóbulos). Tráquea termina en T5.",
+      "image_ref": "Partes - Sistema Respiratorio.pdf p.6-7 (árbol bronquial)",
+      "questions": [
+        {
+          "id": "q6-1",
+          "type": "multiple",
+          "prompt": "¿Cuántos cartílagos hialinos en forma de C tiene la tráquea?",
+          "options": [
+            "5 a 10",
+            "10 a 15",
+            "16 a 20",
+            "21 a 25"
+          ],
+          "answer": 2,
+          "explanation": "La tráquea tiene entre 16 y 20 cartílagos hialinos en forma de C.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q6-2",
+          "type": "multiple",
+          "prompt": "¿Cuántos bronquios secundarios (lobulares) hay en cada pulmón?",
+          "options": [
+            "3 derecho y 2 izquierdo",
+            "2 derecho y 3 izquierdo",
+            "3 en cada pulmón",
+            "10 en cada pulmón"
+          ],
+          "answer": 0,
+          "explanation": "Los bronquios secundarios son 3 en el pulmón derecho (3 lóbulos) y 2 en el izquierdo (2 lóbulos).",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q6-3",
+          "type": "x",
+          "prompt": "Marque con X. La carina es:",
+          "options": [
+            "La parte alta del pulmón izquierdo",
+            "Una capa muscular de la tráquea",
+            "La cresta interna en la bifurcación de la tráquea",
+            "El esfínter entre tráquea y bronquios"
+          ],
+          "answer": 2,
+          "explanation": "La carina es la cresta cartilaginosa interna en el punto de bifurcación de la tráquea en bronquios primarios.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q6-4",
+          "type": "short",
+          "prompt": "¿Cuántos bronquios terciarios (segmentarios) hay por pulmón?",
+          "answer": "10 en cada pulmón",
+          "explanation": "Cada pulmón tiene 10 bronquios terciarios o segmentarios, que abastecen los segmentos broncopulmonares.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_06.png",
+          "caption": "Pulmones y árbol bronquial etiquetados (p.60): tráquea, cartílagos, bronquios primarios"
+        },
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_07.png",
+          "caption": "Pulmones y árbol bronquial SIN etiquetas (p.61): nombra cada bronquio"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "system": "respiratorio",
+      "title": "Pulmones",
+      "idea_central": "Órganos cónicos con lóbulos divididos por cisuras; en el hilio entran vasos y bronquios.",
+      "explanation": [
+        "Forma cónica: base cóncava sobre el diafragma, vértice (ápice) superior.",
+        "Hilio: zona mediastinal donde entran/salen vasos sanguíneos, linfáticos y bronquios primarios. Arterias arriba, venas abajo.",
+        "Pulmón derecho: 3 lóbulos (superior, medio, inferior), cisuras oblicua + horizontal. Más corto y pesado.",
+        "Pulmón izquierdo: 2 lóbulos (superior, inferior), cisura oblicua sola. Tiene incisura cardíaca.",
+        "Vasos pulmonares: tronco pulmonar (ventrículo derecho) → 2 arterias pulmonares → pulmones; las 4 venas pulmonares regresan oxigenada a la aurícula izquierda."
+      ],
+      "key_points": [
+        "Derecho = 3 lóbulos; Izquierdo = 2 lóbulos.",
+        "En el hilio: arterias arriba, venas abajo.",
+        "4 venas pulmonares → aurícula izquierda con sangre oxigenada."
+      ],
+      "concepts": [
+        {
+          "term": "Hilio pulmonar",
+          "definition": "Puerta del pulmón por donde pasan bronquios y vasos."
+        },
+        {
+          "term": "Cisura oblicua",
+          "definition": "Cisura presente en ambos pulmones."
+        },
+        {
+          "term": "Cisura horizontal",
+          "definition": "Cisura exclusiva del pulmón derecho."
+        },
+        {
+          "term": "Incisura cardíaca",
+          "definition": "Escotadura del pulmón izquierdo para alojar al corazón."
+        }
+      ],
+      "mnemonic": "Derecho corto y pesado → 3 lóbulos. Izquierdo hace espacio al corazón → 2 lóbulos. Arteria arriba, vena abajo.",
+      "image_ref": "Partes - Sistema Respiratorio.pdf p.6-7 (pulmones)",
+      "questions": [
+        {
+          "id": "q7-1",
+          "type": "multiple",
+          "prompt": "¿Cuáles son los lóbulos del pulmón derecho?",
+          "options": [
+            "Superior e Inferior",
+            "Superior, Medio e Inferior",
+            "Anterior y Posterior",
+            "Cardíaco y Diafragmático"
+          ],
+          "answer": 1,
+          "explanation": "El pulmón derecho tiene 3 lóbulos: Superior, Medio e Inferior, separados por las cisuras oblicua y horizontal.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q7-2",
+          "type": "multiple",
+          "prompt": "¿Por cuál estructura llega sangre oxigenada de los pulmones a la aurícula izquierda?",
+          "options": [
+            "2 arterias pulmonares",
+            "1 vena cava inferior",
+            "4 venas pulmonares",
+            "4 arterias pulmonares"
+          ],
+          "answer": 2,
+          "explanation": "Las 4 venas pulmonares llevan sangre oxigenada de los pulmones a la aurícula izquierda.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q7-3",
+          "type": "x",
+          "prompt": "Marque con X. La incisura cardíaca es una escotadura que se encuentra en:",
+          "options": [
+            "El pulmón derecho",
+            "El pulmón izquierdo",
+            "Ambos pulmones",
+            "La tráquea"
+          ],
+          "answer": 1,
+          "explanation": "La incisura cardíaca está en el pulmón izquierdo y aloja al corazón.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q7-4",
+          "type": "x",
+          "prompt": "Marque con X. En el hilio pulmonar:",
+          "options": [
+            "Las venas pulmonares son superiores y las arterias inferiores",
+            "Las arterias pulmonares son superiores y las venas inferiores",
+            "Sólo entran bronquios, sin vasos",
+            "Sólo pasan vasos linfáticos"
+          ],
+          "answer": 1,
+          "explanation": "En el hilio las arterias pulmonares son superiores y las venas pulmonares inferiores.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q7-5",
+          "type": "pareo",
+          "prompt": "Pareo: relacione cada impresión con el pulmón correspondiente.",
+          "left": [
+            "Impresión del arco aórtico",
+            "Impresión de la vena ácigos",
+            "Impresión cardíaca (en ambos)",
+            "Impresión de la aorta descendente"
+          ],
+          "right": [
+            "Pulmón derecho",
+            "Pulmón derecho e izquierdo",
+            "Pulmón izquierdo",
+            "Pulmón izquierdo"
+          ],
+          "answer": [
+            2,
+            0,
+            1,
+            3
+          ],
+          "explanation": "Derecho: vena cava, ácigos, cardíaca, esófago, costales. Izquierdo: arco aórtico, aorta descendente, subclavia, cardíaca.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q7-6",
+          "type": "short",
+          "prompt": "¿Cuáles son las dos cisuras del pulmón derecho?",
+          "answer": "Oblicua y horizontal",
+          "explanation": "El pulmón derecho tiene cisura oblicua y cisura horizontal; el izquierdo sólo oblicua.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_06.png",
+          "caption": "Pulmones etiquetados (p.60): 3 lóbulos D + 2 lóbulos I + concavidad cardíaca"
+        },
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_07.png",
+          "caption": "Pulmones SIN etiquetas (p.61): identifica lóbulos y bronquios"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "system": "respiratorio",
+      "title": "Pleura y cavidad pleural",
+      "idea_central": "Doble membrana serosa que envuelve cada pulmón con líquido lubricante entre sus capas.",
+      "explanation": [
+        "Capa parietal: tapiza las paredes de la cavidad torácica.",
+        "Capa visceral: reviste los pulmones.",
+        "Cavidad pleural: espacio entre las 2 capas; contiene líquido pleural.",
+        "El líquido pleural lubrica y permite el deslizamiento de las pleuras."
+      ],
+      "key_points": [
+        "Parietal = pared; Visceral = pulmón.",
+        "La cavidad pleural está entre las 2 capas (no dentro del pulmón).",
+        "Contiene líquido pleural."
+      ],
+      "concepts": [
+        {
+          "term": "Membrana serosa",
+          "definition": "Capa fina húmeda que cubre cavidades y órganos."
+        }
+      ],
+      "mnemonic": "Parietal = Pared. Visceral = Víscera (pulmón).",
+      "image_ref": "Aquí debería ir imagen transversal del tórax con pleuras.",
+      "questions": [
+        {
+          "id": "q8-1",
+          "type": "multiple",
+          "prompt": "¿Cuál capa pleural reviste directamente el pulmón?",
+          "options": [
+            "Parietal",
+            "Visceral",
+            "Serosa abdominal",
+            "Mediastínica"
+          ],
+          "answer": 1,
+          "explanation": "La pleura visceral reviste el pulmón; la parietal cubre la pared torácica.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q8-2",
+          "type": "x",
+          "prompt": "Marque con X. La cavidad pleural es:",
+          "options": [
+            "El interior del pulmón",
+            "El espacio entre la pleura visceral y la parietal con líquido pleural",
+            "Una cavidad ósea del tórax",
+            "Una bolsa entre el diafragma y el hígado"
+          ],
+          "answer": 1,
+          "explanation": "La cavidad pleural es el espacio entre la pleura visceral y la parietal; contiene líquido pleural.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q8-3",
+          "type": "short",
+          "prompt": "¿Cuántas capas tiene la membrana pleural?",
+          "answer": "Dos: parietal y visceral",
+          "explanation": "La membrana pleural tiene 2 capas: parietal (pared torácica) y visceral (pulmón).",
+          "difficulty": "bajo"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_02.png",
+          "caption": "Vista general etiquetada (p.56): membranas pleurales, costillas y diafragma"
+        },
+        {
+          "src": "_images/Partes - Sistema Respiratorio/page_03.png",
+          "caption": "Vista general SIN etiquetas (p.57): identifica la pleura y caja torácica"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "system": "digestivo",
+      "title": "Generalidades del tubo digestivo",
+      "idea_central": "Tubo de 9 m que va de la boca al ano y procesa el alimento.",
+      "explanation": [
+        "Longitud aproximada: 9 metros (en cadáver).",
+        "Tubo digestivo (huecos): boca, esófago, estómago, intestino delgado, intestino grueso, ano.",
+        "Órganos accesorios (sólidos): dientes, lengua, glándulas salivales, hígado, vesícula biliar, páncreas.",
+        "Excepto dientes y lengua, los accesorios no tocan el alimento.",
+        "6 procesos digestivos: Ingestión, Secreción, Mezcla y propulsión, Digestión, Absorción, Defecación."
+      ],
+      "key_points": [
+        "~9 metros total.",
+        "Dientes y lengua: únicos accesorios que tocan el alimento.",
+        "6 procesos: ISMDAD."
+      ],
+      "concepts": [
+        {
+          "term": "Órgano accesorio",
+          "definition": "Órgano que ayuda a la digestión sin formar parte del tubo."
+        }
+      ],
+      "mnemonic": "ISMDAD = Ingestión, Secreción, Mezcla, Digestión, Absorción, Defecación.",
+      "image_ref": "Partes - Sistema Digestivo.pdf p.2-3 (tubo digestivo)",
+      "questions": [
+        {
+          "id": "q9-1",
+          "type": "multiple",
+          "prompt": "¿Cuál NO es un órgano accesorio del sistema digestivo?",
+          "options": [
+            "Hígado",
+            "Páncreas",
+            "Estómago",
+            "Vesícula biliar"
+          ],
+          "answer": 2,
+          "explanation": "El estómago es parte del tubo digestivo (órgano hueco), no accesorio. Los accesorios son dientes, lengua, glándulas salivales, hígado, vesícula y páncreas.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q9-2",
+          "type": "x",
+          "prompt": "Marque con X. Los 6 procesos del sistema digestivo son:",
+          "options": [
+            "Ingestión, Secreción, Mezcla y propulsión, Digestión, Absorción, Defecación",
+            "Ingestión, Absorción, Excreción, Vómito, Defecación, Hidratación",
+            "Digestión, Filtración, Absorción, Secreción, Vómito, Defecación",
+            "Masticación, Salivación, Deglución, Digestión, Absorción, Defecación"
+          ],
+          "answer": 0,
+          "explanation": "Los 6 procesos son: Ingestión, Secreción, Mezcla y propulsión, Digestión, Absorción y Defecación (ISMDAD).",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q9-3",
+          "type": "short",
+          "prompt": "¿Cuáles son los dos órganos accesorios que SÍ entran en contacto directo con el alimento?",
+          "answer": "Dientes y lengua",
+          "explanation": "Excepto la lengua y los dientes, los órganos accesorios no contactan directamente el alimento.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "caption": "Sistema digestivo completo etiquetado (p.46): boca → esófago → estómago → intestinos → recto"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_03.png",
+          "caption": "Sistema digestivo SIN etiquetas (p.47): auto-evaluación"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "system": "digestivo",
+      "title": "Capas del tracto gastrointestinal",
+      "idea_central": "Del esófago al ano, el tubo tiene la misma arquitectura en 4 capas.",
+      "explanation": [
+        "Mucosa (más interna): epitelio + lámina propia + muscular de la mucosa (músculo liso).",
+        "Submucosa: tejido conectivo con linfático, capilares y plexo submucoso (de Meissner).",
+        "Muscular: boca, faringe y esófago superior/medio tienen músculo esquelético; el resto del tubo tiene músculo liso en 2 capas (circular interna + longitudinal externa).",
+        "Serosa (más externa): membrana serosa = peritoneo visceral; sólo donde el tubo cuelga en la cavidad abdominal.",
+        "El esfínter anal interno es liso; el externo es músculo esquelético voluntario."
+      ],
+      "key_points": [
+        "Orden interno → externo: Mucosa → Submucosa → Muscular → Serosa.",
+        "Plexo de Meissner está en la submucosa.",
+        "Esfínter anal externo = voluntario; interno = involuntario."
+      ],
+      "concepts": [
+        {
+          "term": "Plexo submucoso (Meissner)",
+          "definition": "Red nerviosa localizada en la submucosa."
+        },
+        {
+          "term": "Serosa",
+          "definition": "Capa externa = peritoneo visceral en abdomen."
+        }
+      ],
+      "mnemonic": "MuSuMuSe (Mucosa, Submucosa, Muscular, Serosa).",
+      "image_ref": "Aquí debería ir imagen transversal del tubo con las 4 capas.",
+      "questions": [
+        {
+          "id": "q10-1",
+          "type": "multiple",
+          "prompt": "¿Cuál es el orden de las capas del tracto gastrointestinal desde la luz hacia afuera?",
+          "options": [
+            "Serosa, Muscular, Submucosa, Mucosa",
+            "Mucosa, Submucosa, Muscular, Serosa",
+            "Muscular, Mucosa, Serosa, Submucosa",
+            "Submucosa, Mucosa, Serosa, Muscular"
+          ],
+          "answer": 1,
+          "explanation": "De adentro hacia afuera: Mucosa → Submucosa → Muscular → Serosa.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q10-2",
+          "type": "multiple",
+          "prompt": "¿En qué capa se localiza el plexo submucoso (de Meissner)?",
+          "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscular",
+            "Serosa"
+          ],
+          "answer": 1,
+          "explanation": "El plexo submucoso o de Meissner está, como su nombre indica, en la submucosa.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q10-3",
+          "type": "x",
+          "prompt": "Marque con X. El esfínter anal EXTERNO está compuesto por:",
+          "options": [
+            "Músculo liso involuntario",
+            "Músculo esquelético voluntario",
+            "Tejido conectivo solamente",
+            "Cartílago hialino"
+          ],
+          "answer": 1,
+          "explanation": "El esfínter anal externo contiene músculo esquelético voluntario. El interno es liso involuntario.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q10-4",
+          "type": "short",
+          "prompt": "¿Qué otra denominación recibe la serosa del tubo digestivo abdominal?",
+          "answer": "Peritoneo visceral",
+          "explanation": "La serosa también se denomina peritoneo visceral.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "caption": "Sistema digestivo etiquetado (p.46): tubo de referencia para las 4 capas"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_03.png",
+          "caption": "Sistema digestivo SIN etiquetas (p.47)"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "system": "digestivo",
+      "title": "Peritoneo y repliegues",
+      "idea_central": "Membrana serosa más grande del cuerpo; envuelve y sujeta las vísceras abdominales.",
+      "explanation": [
+        "Peritoneo parietal: tapiza las paredes abdomino-pélvicas.",
+        "Peritoneo visceral: cubre algunos órganos.",
+        "Cavidad peritoneal: espacio entre ambas capas con líquido seroso.",
+        "Órganos retroperitoneales: sólo cubiertos por delante (ej.: riñones y páncreas).",
+        "5 repliegues: Epiplón mayor, Ligamento falciforme, Epiplón menor, Mesenterio, Mesocolon."
+      ],
+      "key_points": [
+        "Retroperitoneales = riñones + páncreas.",
+        "Falciforme ancla el hígado.",
+        "Mesenterio = intestino delgado; Mesocolon = intestino grueso."
+      ],
+      "concepts": [
+        {
+          "term": "Peritoneo",
+          "definition": "Membrana serosa más grande del organismo."
+        },
+        {
+          "term": "Epiplón mayor",
+          "definition": "Delantal adiposo sobre el colon transverso e intestino delgado."
+        },
+        {
+          "term": "Ligamento falciforme",
+          "definition": "Une el hígado a la pared abdominal anterior y al diafragma."
+        },
+        {
+          "term": "Epiplón menor",
+          "definition": "Dos pliegues que suspenden estómago y duodeno."
+        },
+        {
+          "term": "Mesenterio",
+          "definition": "Une el intestino delgado a la pared abdominal posterior."
+        },
+        {
+          "term": "Mesocolon",
+          "definition": "Une el intestino grueso a la pared abdominal posterior."
+        }
+      ],
+      "mnemonic": "Falciforme cuelga el hígado; Mesenterio cuelga el delgado; Mesocolon cuelga el grueso.",
+      "image_ref": "Aquí debería ir imagen sagital del abdomen con repliegues.",
+      "questions": [
+        {
+          "id": "q11-1",
+          "type": "multiple",
+          "prompt": "¿Cuáles órganos son retroperitoneales?",
+          "options": [
+            "Hígado y vesícula",
+            "Riñones y páncreas",
+            "Estómago e intestino delgado",
+            "Colon transverso y bazo"
+          ],
+          "answer": 1,
+          "explanation": "Los riñones y el páncreas son retroperitoneales: sólo el peritoneo cubre su cara anterior.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q11-2",
+          "type": "multiple",
+          "prompt": "¿Qué repliegue une el hígado con la pared abdominal anterior y el diafragma?",
+          "options": [
+            "Mesenterio",
+            "Mesocolon",
+            "Epiplón menor",
+            "Ligamento falciforme"
+          ],
+          "answer": 3,
+          "explanation": "El ligamento falciforme une el hígado con la pared abdominal anterior y el diafragma.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q11-3",
+          "type": "x",
+          "prompt": "Marque con X. La membrana serosa más grande del organismo es:",
+          "options": [
+            "Pleura",
+            "Pericardio",
+            "Peritoneo",
+            "Meninges"
+          ],
+          "answer": 2,
+          "explanation": "El peritoneo es la membrana serosa más grande del cuerpo.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q11-4",
+          "type": "pareo",
+          "prompt": "Pareo: relacione cada repliegue con la función que cumple.",
+          "left": [
+            "Epiplón mayor",
+            "Ligamento falciforme",
+            "Mesenterio",
+            "Mesocolon"
+          ],
+          "right": [
+            "Une intestino delgado a la pared posterior",
+            "Une intestino grueso a la pared posterior",
+            "Une hígado a pared abdominal anterior y diafragma",
+            "Delantal adiposo sobre colon transverso"
+          ],
+          "answer": [
+            3,
+            2,
+            0,
+            1
+          ],
+          "explanation": "Epiplón mayor = delantal adiposo. Ligamento falciforme = hígado. Mesenterio = delgado. Mesocolon = grueso.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q11-5",
+          "type": "short",
+          "prompt": "¿Cómo se llama el espacio entre las capas parietal y visceral del peritoneo?",
+          "answer": "Cavidad peritoneal",
+          "explanation": "La cavidad peritoneal es el espacio entre ambas capas con líquido seroso.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "caption": "Sistema digestivo etiquetado (p.46): órganos que el peritoneo cubre"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_03.png",
+          "caption": "Sistema digestivo SIN etiquetas (p.47)"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "system": "digestivo",
+      "title": "Boca, paladar y úvula",
+      "idea_central": "Cavidad de entrada del tubo digestivo, formada por mejillas, paladares y lengua.",
+      "explanation": [
+        "Labios: pliegues carnosos con el músculo orbicular de los labios.",
+        "Vestíbulo bucal: espacio entre labios/mejillas y encías/dientes.",
+        "Fauces: paso entre la cavidad bucal y la faringe.",
+        "Paladar duro: anterior; formado por el techo palatino + maxilar; separa cavidad oral de la nasal.",
+        "Paladar blando: posterior; tabique muscular entre orofaringe y nasofaringe.",
+        "Úvula: masa muscular cónica en el borde libre del paladar blando; de su base salen los arcos palatogloso y palatofaríngeo.",
+        "Amígdalas palatinas: entre los arcos; Amígdalas sublinguales (linguales): en la base de la lengua."
+      ],
+      "key_points": [
+        "Duro = adelante (óseo); Blando = atrás (muscular).",
+        "Úvula → 2 arcos: palatogloso + palatofaríngeo.",
+        "Amígdalas palatinas entre los arcos; linguales en la base de la lengua."
+      ],
+      "concepts": [
+        {
+          "term": "Vestíbulo bucal",
+          "definition": "Espacio entre labios/mejillas y encías/dientes."
+        },
+        {
+          "term": "Fauces",
+          "definition": "Paso entre la boca y la orofaringe."
+        },
+        {
+          "term": "Úvula",
+          "definition": "Masa muscular cónica en el borde libre del paladar blando."
+        }
+      ],
+      "mnemonic": "Duro y adelante, Blando y atrás. Arcos = PG + PF.",
+      "image_ref": "Partes - Sistema Digestivo.pdf p.4-5 (boca rotulada)",
+      "questions": [
+        {
+          "id": "q12-1",
+          "type": "multiple",
+          "prompt": "¿Cuál es la principal diferencia anatómica entre paladar duro y paladar blando?",
+          "options": [
+            "El duro es muscular y posterior; el blando es óseo y anterior",
+            "El duro es óseo y anterior; el blando es muscular y posterior",
+            "Los dos son musculares y separan la boca del esófago",
+            "El duro es de cartílago y el blando es de mucosa"
+          ],
+          "answer": 1,
+          "explanation": "Paladar duro: óseo, anterior (techo palatino + maxilar). Paladar blando: muscular, posterior (separa orofaringe de nasofaringe).",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q12-2",
+          "type": "multiple",
+          "prompt": "Las amígdalas palatinas se localizan:",
+          "options": [
+            "En la base de la lengua",
+            "Entre los arcos palatogloso y palatofaríngeo",
+            "En la nasofaringe",
+            "Debajo del paladar duro"
+          ],
+          "answer": 1,
+          "explanation": "Las amígdalas palatinas se localizan entre los arcos palatogloso y palatofaríngeo.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q12-3",
+          "type": "x",
+          "prompt": "Marque con X. La úvula es:",
+          "options": [
+            "Una glándula salival",
+            "Una masa muscular cónica del paladar blando",
+            "Una papila lingual",
+            "Un cartílago de la laringe"
+          ],
+          "answer": 1,
+          "explanation": "La úvula es una masa muscular cónica en el borde libre del paladar blando.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q12-4",
+          "type": "short",
+          "prompt": "¿Cómo se llama el músculo principal que forma los labios?",
+          "answer": "Músculo orbicular de los labios",
+          "explanation": "Los labios son pliegues carnosos que contienen el músculo orbicular de los labios.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_04.png",
+          "caption": "Anatomía de la boca etiquetada (p.48): labios, dientes, úvula, arco palatofaríngeo, lengua"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_05.png",
+          "caption": "Anatomía de la boca SIN etiquetas (p.49): identifica cada parte"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "system": "digestivo",
+      "title": "Glándulas salivales y lengua",
+      "idea_central": "3 pares de glándulas producen saliva; la lengua mueve el alimento y se inserta en hioides, temporal y mandíbula.",
+      "explanation": [
+        "3 pares de glándulas salivales: parótidas, submandibulares (submaxilares) y sublinguales.",
+        "Parótidas: debajo y delante de las orejas.",
+        "Submandibulares: en el piso de la boca.",
+        "Sublinguales: debajo de la lengua, encima de las submandibulares.",
+        "Lengua: dividida en 2 mitades por tabique medio; se inserta en hioides, hueso temporal y mandíbula. Cubierta por papilas.",
+        "Frenillo lingual: pliegue de mucosa en la línea media inferior que fija la lengua al piso de la boca."
+      ],
+      "key_points": [
+        "Por la oreja (parótida), por el piso (submandibular), por debajo (sublingual).",
+        "Lengua se inserta en hioides + temporal + mandíbula.",
+        "Frenillo = pliegue medio inferior."
+      ],
+      "concepts": [
+        {
+          "term": "Parótida",
+          "definition": "Glándula salival debajo y delante de la oreja."
+        },
+        {
+          "term": "Frenillo lingual",
+          "definition": "Pliegue mucoso que une la lengua con el piso de la boca."
+        },
+        {
+          "term": "Papilas linguales",
+          "definition": "Pequeños relieves que cubren la lengua."
+        }
+      ],
+      "mnemonic": "Por la oreja, por el piso, por debajo (PSS).",
+      "image_ref": "Aquí debería ir imagen lateral con las 3 glándulas salivales.",
+      "questions": [
+        {
+          "id": "q13-1",
+          "type": "multiple",
+          "prompt": "¿Cuáles son los 3 pares de glándulas salivales?",
+          "options": [
+            "Tiroideas, paratiroides y suprarrenales",
+            "Parótidas, submandibulares y sublinguales",
+            "Sublinguales, lacrimales y mamarias",
+            "Parótidas, palatinas y linguales"
+          ],
+          "answer": 1,
+          "explanation": "Las glándulas salivales son 3 pares: parótidas, submandibulares (submaxilares) y sublinguales.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q13-2",
+          "type": "x",
+          "prompt": "Marque con X. ¿Dónde se ubican las glándulas parótidas?",
+          "options": [
+            "Debajo de la lengua",
+            "En el piso de la boca",
+            "Debajo y delante de las orejas",
+            "Bajo el paladar duro"
+          ],
+          "answer": 2,
+          "explanation": "Las parótidas están debajo y delante de las orejas.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q13-3",
+          "type": "short",
+          "prompt": "¿En cuáles tres estructuras se inserta la lengua?",
+          "answer": "Hueso hioides, hueso temporal y mandíbula",
+          "explanation": "La lengua se inserta en el hioides, el temporal y la mandíbula.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_04.png",
+          "caption": "Boca etiquetada (p.48): lengua, encías, frenillo labial"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_05.png",
+          "caption": "Boca SIN etiquetas (p.49): localiza glándulas y partes de la lengua"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "system": "digestivo",
+      "title": "Dientes",
+      "idea_central": "Órganos accesorios incrustados en los alveolos de mandíbula y maxilar.",
+      "explanation": [
+        "Localizados en las apófisis alveolares de la mandíbula y del hueso maxilar.",
+        "Las apófisis alveolares están cubiertas por encías que se extienden dentro del alveolo.",
+        "Ligamento o membrana periodóntica fija el diente al hueso.",
+        "Regiones del diente: corona (visible), cuello (transición), raíz (en el alveolo).",
+        "Dientes deciduos: 20, se pierden entre los 6 y 12 años; permanentes: 32."
+      ],
+      "key_points": [
+        "Deciduos = 20; Permanentes = 32.",
+        "3 regiones: Corona, Cuello, Raíz.",
+        "Periodonto fija el diente al hueso."
+      ],
+      "concepts": [
+        {
+          "term": "Corona",
+          "definition": "Parte visible del diente."
+        },
+        {
+          "term": "Cuello",
+          "definition": "Porción estrecha que une corona y raíz."
+        },
+        {
+          "term": "Raíz",
+          "definition": "Parte del diente que se inserta en el alveolo."
+        },
+        {
+          "term": "Periodonto",
+          "definition": "Ligamento que fija el diente al alveolo."
+        }
+      ],
+      "mnemonic": "20 de leche, 32 para siempre. Corona–Cuello–Raíz.",
+      "image_ref": "Aquí debería ir imagen de diente con corona, cuello y raíz.",
+      "questions": [
+        {
+          "id": "q14-1",
+          "type": "multiple",
+          "prompt": "¿Cuántos dientes deciduos y permanentes tiene el ser humano?",
+          "options": [
+            "Deciduos 32 / Permanentes 20",
+            "Deciduos 20 / Permanentes 32",
+            "Deciduos 28 / Permanentes 32",
+            "Deciduos 20 / Permanentes 28"
+          ],
+          "answer": 1,
+          "explanation": "Hay 20 dientes deciduos y 32 permanentes.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q14-2",
+          "type": "x",
+          "prompt": "Marque con X. La parte del diente que se inserta en el alveolo se llama:",
+          "options": [
+            "Corona",
+            "Cuello",
+            "Raíz",
+            "Periostio"
+          ],
+          "answer": 2,
+          "explanation": "La raíz es la parte del diente insertada en el alveolo; la corona es la visible y el cuello la une a la raíz.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q14-3",
+          "type": "short",
+          "prompt": "¿Cómo se llama el ligamento que fija el diente al hueso alveolar?",
+          "answer": "Ligamento o membrana periodóntica (periodonto)",
+          "explanation": "El ligamento periodóntico (periodonto) fija el diente al alveolo.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_04.png",
+          "caption": "Boca etiquetada (p.48): dientes en las arcadas superior e inferior"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_05.png",
+          "caption": "Boca SIN etiquetas (p.49): cuenta y nombra los dientes"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "system": "digestivo",
+      "title": "Esófago",
+      "idea_central": "Tubo muscular colapsable de 25 cm que lleva el alimento de la faringe al estómago.",
+      "explanation": [
+        "25 cm de largo; detrás de la tráquea y delante de la columna vertebral.",
+        "Inicio en el límite inferior de la laringofaringe; termina en el orificio del cardias (T11).",
+        "Atraviesa el diafragma por el hiato esofágico (pilar derecho del diafragma, a la altura de T10).",
+        "3 porciones: cervical, torácica y abdominal.",
+        "3 estrechamientos: cervical (EES, cricofaríngeo), torácico (broncoaórtico: aorta + bronquio principal), frénico (diafragmático).",
+        "2 esfínteres: EES (esquelético/cricofaríngeo, real) y EEI (liso, falso, depende del tono diafragmático).",
+        "Tercio superior = músculo estriado; tercio inferior = músculo liso; tercio medio = ambos.",
+        "Línea Z: transición abrupta de mucosa esofágica a gástrica (a la izquierda de T11)."
+      ],
+      "key_points": [
+        "25 cm; detrás de la tráquea.",
+        "EES = esquelético (real); EEI = liso (falso).",
+        "Hiato esofágico en T10; cardias en T11."
+      ],
+      "concepts": [
+        {
+          "term": "Hiato esofágico",
+          "definition": "Apertura del diafragma por donde pasa el esófago."
+        },
+        {
+          "term": "Ligamento frenoesofágico",
+          "definition": "Fija el esófago al hiato diafragmático."
+        },
+        {
+          "term": "Línea Z",
+          "definition": "Transición abrupta entre mucosa esofágica y gástrica."
+        }
+      ],
+      "mnemonic": "Cervical–Torácico–Frénico (CTF). EES = esquelético real; EEI = liso falso. T10 → T11.",
+      "image_ref": "Aquí debería ir imagen del esófago con sus 3 estrechamientos.",
+      "questions": [
+        {
+          "id": "q15-1",
+          "type": "multiple",
+          "prompt": "¿Cuál es la longitud aproximada del esófago?",
+          "options": [
+            "10 cm",
+            "15 cm",
+            "25 cm",
+            "40 cm"
+          ],
+          "answer": 2,
+          "explanation": "El esófago mide unos 25 cm.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q15-2",
+          "type": "multiple",
+          "prompt": "¿Cuál enunciado describe correctamente el Esfínter Esofágico Inferior (EEI)?",
+          "options": [
+            "Está formado por músculo esquelético y es un esfínter real",
+            "Está formado por músculo liso y es un esfínter falso (depende del diafragma)",
+            "Es el esfínter cricofaríngeo",
+            "Se localiza en el cuello, en el inicio del esófago"
+          ],
+          "answer": 1,
+          "explanation": "El EEI es de músculo liso y se considera un esfínter falso porque su tono depende del músculo diafragma (en el hiato).",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q15-3",
+          "type": "x",
+          "prompt": "Marque con X. El estrechamiento esofágico torácico (broncoaórtico) es causado por:",
+          "options": [
+            "El músculo cricofaríngeo",
+            "El cruce de la aorta y del bronquio principal",
+            "El hiato esofágico del diafragma",
+            "La línea Z"
+          ],
+          "answer": 1,
+          "explanation": "El estrechamiento torácico (broncoaórtico) se debe al cruce de la aorta (anteroposterior) y del bronquio principal (lateral).",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q15-4",
+          "type": "pareo",
+          "prompt": "Pareo: relacione cada estrechamiento esofágico con su causa.",
+          "left": [
+            "Estrechamiento cervical (EES)",
+            "Estrechamiento torácico",
+            "Estrechamiento frénico"
+          ],
+          "right": [
+            "Hiato esofágico del diafragma",
+            "Músculo cricofaríngeo",
+            "Cruce de aorta y bronquio principal"
+          ],
+          "answer": [
+            1,
+            2,
+            0
+          ],
+          "explanation": "Cervical: cricofaríngeo (EES). Torácico: aorta + bronquio. Frénico: hiato esofágico.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q15-5",
+          "type": "short",
+          "prompt": "¿A qué altura vertebral el esófago atraviesa el diafragma?",
+          "answer": "T10 (hiato esofágico)",
+          "explanation": "El esófago atraviesa el hiato esofágico del diafragma a la altura de T10; termina en T11 (cardias).",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "caption": "Sistema digestivo etiquetado (p.46): esófago entre faringe y estómago"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_03.png",
+          "caption": "Sistema digestivo SIN etiquetas (p.47): traza el recorrido del esófago"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "system": "digestivo",
+      "title": "Estómago",
+      "idea_central": "Ensanchamiento en forma de J del tubo digestivo, entre esófago y duodeno.",
+      "explanation": [
+        "Localizado debajo del diafragma, en epigastrio, umbilical e hipocondrio izquierdo.",
+        "Conecta el esófago con el duodeno.",
+        "4 regiones: Cardias (entrada, T11), Fundus (porción superior dilatada), Cuerpo (porción principal), Píloro (salida en embudo: antro pilórico + canal pilórico).",
+        "Esfínter pilórico controla el paso al duodeno.",
+        "Curvaturas: menor (interna, cóncava, corta) y mayor (externa, convexa, larga).",
+        "Irrigación: ramas del tronco celíaco; gástricas D e I (curvatura menor); gastroomentales D e I (curvatura mayor); fundus y porción superior por gástricas cortas + gástrica posterior."
+      ],
+      "key_points": [
+        "4 regiones: Cardias, Fundus, Cuerpo, Píloro (CFCP).",
+        "Curvatura menor = corta y cóncava; mayor = larga y convexa.",
+        "Irrigación principal: tronco celíaco."
+      ],
+      "concepts": [
+        {
+          "term": "Cardias",
+          "definition": "Orificio superior del estómago, donde entra el esófago."
+        },
+        {
+          "term": "Fundus",
+          "definition": "Porción superior dilatada bajo la cúpula izquierda del diafragma."
+        },
+        {
+          "term": "Píloro",
+          "definition": "Región de salida del estómago hacia el duodeno."
+        }
+      ],
+      "mnemonic": "C-F-C-P. Menor entra, Mayor envuelve.",
+      "image_ref": "Aquí debería ir imagen anterior del estómago con sus 4 regiones.",
+      "questions": [
+        {
+          "id": "q16-1",
+          "type": "multiple",
+          "prompt": "¿Cuáles son las 4 regiones del estómago en orden?",
+          "options": [
+            "Píloro, Cuerpo, Fundus, Cardias",
+            "Cardias, Fundus, Cuerpo, Píloro",
+            "Cardias, Cuerpo, Fundus, Píloro",
+            "Fundus, Cardias, Cuerpo, Píloro"
+          ],
+          "answer": 1,
+          "explanation": "Las 4 regiones son: Cardias (entrada) → Fundus → Cuerpo → Píloro (salida).",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q16-2",
+          "type": "multiple",
+          "prompt": "¿En cuáles regiones abdominales se localiza principalmente el estómago?",
+          "options": [
+            "Hipocondrio derecho y epigastrio",
+            "Epigastrio, umbilical e hipocondrio izquierdo",
+            "Fosa ilíaca derecha y mesogastrio",
+            "Hipogastrio y región pélvica"
+          ],
+          "answer": 1,
+          "explanation": "El estómago se localiza en epigastrio, región umbilical e hipocondrio izquierdo.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q16-3",
+          "type": "x",
+          "prompt": "Marque con X. La curvatura menor del estómago es:",
+          "options": [
+            "Borde externo, convexo y largo",
+            "Borde interno, cóncavo y corto",
+            "El punto de unión con el esófago",
+            "El límite entre fundus y cuerpo"
+          ],
+          "answer": 1,
+          "explanation": "Curvatura menor = borde interno, cóncavo y corto. Curvatura mayor = borde externo, convexo y largo.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q16-4",
+          "type": "pareo",
+          "prompt": "Pareo: relacione cada arteria gástrica con la zona que irriga.",
+          "left": [
+            "Arterias gástricas D e I",
+            "Arterias gastroomentales D e I",
+            "Arterias gástricas cortas y gástrica posterior"
+          ],
+          "right": [
+            "Curvatura mayor",
+            "Fundus y porción superior del cuerpo",
+            "Curvatura menor"
+          ],
+          "answer": [
+            2,
+            0,
+            1
+          ],
+          "explanation": "Gástricas D e I = curvatura menor. Gastroomentales D e I = curvatura mayor. Gástricas cortas + gástrica posterior = fundus + porción superior.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q16-5",
+          "type": "short",
+          "prompt": "¿Cómo se llama el esfínter que regula el paso del estómago al duodeno?",
+          "answer": "Esfínter pilórico",
+          "explanation": "El píloro contiene el esfínter pilórico que controla el paso del contenido al duodeno.",
+          "difficulty": "bajo"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "caption": "Sistema digestivo etiquetado (p.46): estómago en cuadrante superior izquierdo"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_06.png",
+          "caption": "Sistema biliar etiquetado (p.50): estómago y su relación con duodeno e hígado"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "system": "digestivo",
+      "title": "Intestino delgado",
+      "idea_central": "Sitio principal de digestión y absorción de nutrientes.",
+      "explanation": [
+        "Va del esfínter pilórico al intestino grueso, donde se une al ciego por la válvula ileocecal.",
+        "Longitud: 3 m en persona viva, 6,5 m en cadáver.",
+        "3 regiones: Duodeno, Yeyuno e Íleon."
+      ],
+      "key_points": [
+        "3 regiones: D-Y-I (Duodeno, Yeyuno, Íleon).",
+        "Sitio principal de absorción de nutrientes.",
+        "Salida por válvula ileocecal al ciego."
+      ],
+      "concepts": [
+        {
+          "term": "Válvula ileocecal",
+          "definition": "Esfínter entre el íleon y el ciego."
+        }
+      ],
+      "mnemonic": "D-Y-I. Ileo-cecal = íleon entra al ciego.",
+      "image_ref": "Partes - Sistema Digestivo.pdf p.8-9 (intestinos)",
+      "questions": [
+        {
+          "id": "q17-1",
+          "type": "multiple",
+          "prompt": "¿Cuáles son las 3 regiones del intestino delgado en orden?",
+          "options": [
+            "Yeyuno, Duodeno, Íleon",
+            "Duodeno, Íleon, Yeyuno",
+            "Duodeno, Yeyuno, Íleon",
+            "Íleon, Yeyuno, Duodeno"
+          ],
+          "answer": 2,
+          "explanation": "El intestino delgado va: Duodeno → Yeyuno → Íleon.",
+          "difficulty": "bajo"
+        },
+        {
+          "id": "q17-2",
+          "type": "x",
+          "prompt": "Marque con X. ¿Cuál es la longitud del intestino delgado en una persona viva?",
+          "options": [
+            "1,5 m",
+            "3 m",
+            "6,5 m",
+            "9 m"
+          ],
+          "answer": 1,
+          "explanation": "En persona viva: aproximadamente 3 m; en cadáver, 6,5 m por la relajación de la musculatura.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q17-3",
+          "type": "short",
+          "prompt": "¿Cómo se llama la válvula entre el íleon y el ciego?",
+          "answer": "Esfínter o válvula ileocecal",
+          "explanation": "La válvula ileocecal separa el íleon (intestino delgado) del ciego (intestino grueso).",
+          "difficulty": "bajo"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_08.png",
+          "caption": "Intestinos etiquetados (p.52): yeyuno, íleon y unión con el grueso"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_09.png",
+          "caption": "Intestinos SIN etiquetas (p.53): identifica las porciones del delgado"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "system": "digestivo",
+      "title": "Intestino grueso",
+      "idea_central": "Porción terminal del tubo digestivo: absorbe agua, forma heces y las expulsa.",
+      "explanation": [
+        "Mide 1,5 m; fijado a la pared posterior por el mesocolon.",
+        "Funciones: completar la absorción, producir vitaminas, formar y expulsar heces.",
+        "La absorción de agua ocurre mayormente en el colon ascendente; la formación de heces en colon descendente y sigmoideo; las heces se acumulan en el recto.",
+        "4 regiones: Ciego (con apéndice vermiforme), Colon (ascendente, transverso, descendente, sigmoides), Recto, Canal anal.",
+        "Flexuras: ángulo hepático (cólica derecha) bajo el hígado; ángulo esplénico (cólica izquierda) bajo el bazo.",
+        "Ano: esfínter anal interno (involuntario, liso) y externo (voluntario, esquelético)."
+      ],
+      "key_points": [
+        "1,5 m y fijado por mesocolon.",
+        "Flexura hepática (D) bajo el hígado; esplénica (I) bajo el bazo.",
+        "Esfínter anal externo = voluntario; interno = involuntario."
+      ],
+      "concepts": [
+        {
+          "term": "Apéndice vermiforme",
+          "definition": "Estructura tubular unida al ciego; se palpa en la región inguinal derecha."
+        },
+        {
+          "term": "Flexura cólica derecha",
+          "definition": "Ángulo hepático, bajo el hígado."
+        },
+        {
+          "term": "Flexura cólica izquierda",
+          "definition": "Ángulo esplénico, bajo el bazo."
+        }
+      ],
+      "mnemonic": "Colon: A-T-D-S. Hepático abajo del hígado, Esplénico abajo del bazo.",
+      "image_ref": "Partes - Sistema Digestivo.pdf p.8-9 (intestino grueso)",
+      "questions": [
+        {
+          "id": "q18-1",
+          "type": "multiple",
+          "prompt": "¿En qué porción del colon ocurre principalmente la absorción de agua?",
+          "options": [
+            "Colon ascendente",
+            "Colon descendente",
+            "Colon sigmoideo",
+            "Recto"
+          ],
+          "answer": 0,
+          "explanation": "La absorción del agua ocurre mayormente en el colon ascendente. La formación de heces es en el descendente y sigmoideo.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q18-2",
+          "type": "multiple",
+          "prompt": "¿Cómo se llama el ángulo del colon que está bajo el bazo?",
+          "options": [
+            "Flexura cólica derecha (ángulo hepático)",
+            "Flexura cólica izquierda (ángulo esplénico)",
+            "Flexura sigmoidea",
+            "Flexura cecal"
+          ],
+          "answer": 1,
+          "explanation": "El ángulo esplénico (flexura cólica izquierda) está bajo el bazo. El hepático (cólica derecha) está bajo el hígado.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q18-3",
+          "type": "x",
+          "prompt": "Marque con X. ¿Cuál afirmación sobre los esfínteres anales es VERDADERA?",
+          "options": [
+            "El interno es voluntario y el externo involuntario",
+            "Ambos son voluntarios",
+            "El interno es involuntario (liso) y el externo voluntario (esquelético)",
+            "Ambos son de músculo cardíaco"
+          ],
+          "answer": 2,
+          "explanation": "Esfínter anal interno = músculo liso involuntario; externo = músculo esquelético voluntario.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q18-4",
+          "type": "pareo",
+          "prompt": "Pareo: relacione cada porción del intestino grueso con su característica.",
+          "left": [
+            "Ciego",
+            "Colon ascendente",
+            "Colon sigmoides",
+            "Recto"
+          ],
+          "right": [
+            "Comienza cerca de la cresta ilíaca izquierda y se continúa con el recto",
+            "Estructura corta antes del canal anal donde se acumulan las heces",
+            "Inicia debajo de la válvula ileocecal; contiene el apéndice vermiforme",
+            "Asciende por el lado derecho del abdomen hasta la flexura hepática"
+          ],
+          "answer": [
+            2,
+            3,
+            0,
+            1
+          ],
+          "explanation": "Ciego = bajo la válvula ileocecal, con apéndice. Ascendente = sube por la derecha. Sigmoides = comienza cerca de cresta ilíaca I y conecta con recto. Recto = donde se acumulan las heces.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q18-5",
+          "type": "short",
+          "prompt": "¿Cuál es la longitud aproximada del intestino grueso?",
+          "answer": "1,5 metros",
+          "explanation": "El intestino grueso mide unos 1,5 m y va del íleon al ano.",
+          "difficulty": "bajo"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_08.png",
+          "caption": "Intestinos etiquetados (p.52): ciego, apéndice, colon, recto, ano"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_09.png",
+          "caption": "Intestinos SIN etiquetas (p.53): nombra cada porción del colon"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "system": "digestivo",
+      "title": "Hígado, vesícula y vías biliares",
+      "idea_central": "El hígado produce bilis; la vesícula la almacena y la libera al duodeno.",
+      "explanation": [
+        "Hígado: glándula más voluminosa del cuerpo, bajo el diafragma, en hipocondrio derecho y epigastrio. Cubierto por peritoneo visceral.",
+        "4 lóbulos: Derecho, Izquierdo, Caudado y Cuadrado.",
+        "Ligamentos: Falciforme (entre lóbulos D e I), Redondo (vestigio de la vena umbilical fetal, en el borde libre del falciforme), Coronario (hígado → diafragma y peritoneo).",
+        "Unidad funcional: lobulillo hepático con hepatocitos, sinusoides (capilares) y células de Kupffer (reticuloendoteliales).",
+        "Vesícula biliar: saco piriforme en cara inferior del hígado; áreas: fondo, cuerpo, cuello.",
+        "Vías biliares: hepatocitos → canalículos biliares → conductos biliares → hepáticos D e I → hepático común; el hepático común + cístico (de la vesícula) = colédoco, que drena la bilis en el duodeno."
+      ],
+      "key_points": [
+        "4 lóbulos: D, I, Caudado, Cuadrado.",
+        "Ligamento redondo = vestigio de la vena umbilical fetal.",
+        "Hepático común + Cístico = Colédoco → duodeno."
+      ],
+      "concepts": [
+        {
+          "term": "Hepatocito",
+          "definition": "Célula funcional del hígado."
+        },
+        {
+          "term": "Célula de Kupffer",
+          "definition": "Macrófago hepático (célula reticuloendotelial)."
+        },
+        {
+          "term": "Sinusoide hepático",
+          "definition": "Capilar especializado en el lobulillo hepático."
+        },
+        {
+          "term": "Colédoco",
+          "definition": "Conducto biliar formado por la unión del hepático común y el cístico."
+        }
+      ],
+      "mnemonic": "Lóbulos D-I-C-Cu. Hepático + Cístico = Colédoco. Falciforme adelante, Redondo recuerda al cordón umbilical.",
+      "image_ref": "Partes - Sistema Digestivo.pdf p.6-7 (sistema biliar)",
+      "questions": [
+        {
+          "id": "q19-1",
+          "type": "multiple",
+          "prompt": "¿Cuáles son los 4 lóbulos del hígado?",
+          "options": [
+            "Anterior, Posterior, Superior, Inferior",
+            "Derecho, Izquierdo, Caudado, Cuadrado",
+            "Apical, Basal, Medial, Lateral",
+            "Frontal, Parietal, Temporal, Occipital"
+          ],
+          "answer": 1,
+          "explanation": "Los 4 lóbulos del hígado son Derecho, Izquierdo, Caudado y Cuadrado.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q19-2",
+          "type": "multiple",
+          "prompt": "El ligamento redondo del hígado es vestigio de:",
+          "options": [
+            "La arteria umbilical fetal",
+            "La vena umbilical fetal",
+            "El conducto venoso de Arancio",
+            "El conducto torácico"
+          ],
+          "answer": 1,
+          "explanation": "El ligamento redondo es el vestigio de la vena umbilical fetal; va del hígado al ombligo.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q19-3",
+          "type": "x",
+          "prompt": "Marque con X. El conducto colédoco se forma por la unión de:",
+          "options": [
+            "Conducto hepático común + conducto cístico",
+            "Conducto pancreático principal + Wirsung",
+            "Conducto hepático derecho + conducto cístico",
+            "Conducto pancreático accesorio + colédoco"
+          ],
+          "answer": 0,
+          "explanation": "El colédoco se forma por la unión del hepático común y el cístico (proveniente de la vesícula). Drena en el duodeno.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q19-4",
+          "type": "pareo",
+          "prompt": "Pareo: relacione cada estructura biliar con su descripción.",
+          "left": [
+            "Canalículos biliares",
+            "Conducto hepático común",
+            "Conducto cístico",
+            "Colédoco"
+          ],
+          "right": [
+            "Sale de la vesícula biliar",
+            "Drena la bilis en el duodeno",
+            "Inicio del recorrido biliar tras los hepatocitos",
+            "Unión de los conductos hepáticos derecho e izquierdo"
+          ],
+          "answer": [
+            2,
+            3,
+            0,
+            1
+          ],
+          "explanation": "Canalículos = inicio. Hepático común = unión D e I. Cístico = sale de la vesícula. Colédoco = drena en duodeno.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q19-5",
+          "type": "short",
+          "prompt": "Mencione las 3 áreas anatómicas de la vesícula biliar.",
+          "answer": "Fondo, cuerpo y cuello",
+          "explanation": "Las 3 áreas de la vesícula biliar son fondo, cuerpo y cuello.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_06.png",
+          "caption": "Sistema biliar etiquetado (p.50): hígado, vesícula, conducto cístico, duodeno"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_07.png",
+          "caption": "Sistema biliar SIN etiquetas (p.51): identifica vías biliares"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "system": "digestivo",
+      "title": "Páncreas e irrigación abdominal",
+      "idea_central": "Glándula retroperitoneal con función exocrina y endocrina; drena al duodeno.",
+      "explanation": [
+        "Páncreas: glándula retroperitoneal con cabeza, cuerpo y cola.",
+        "El conducto pancreático (Wirsung) se une al colédoco y juntos forman el ámpula pancreático-biliar (de Vater) que entra al duodeno.",
+        "El paso por el ámpula está regulado por el esfínter hepatopancreático (de Oddi).",
+        "Conducto accesorio: de Santorini.",
+        "Histología: acinos (función exocrina, secretan jugo pancreático) e islotes pancreáticos (Langerhans, función endocrina).",
+        "Irrigación abdominal: la aorta abdominal da 3 ramas principales: tronco celíaco, arteria mesentérica superior y arteria mesentérica inferior.",
+        "Drenaje abdominal: la vena porta hepática se forma por la unión de la vena mesentérica superior y la vena esplénica; lleva sangre venosa del tubo digestivo, el bazo y la mayor parte de la vesícula al hígado."
+      ],
+      "key_points": [
+        "Áreas: Cabeza – Cuerpo – Cola.",
+        "Wirsung + Colédoco → Vater → duodeno (esfínter de Oddi).",
+        "Vena porta = Mesentérica superior + Esplénica."
+      ],
+      "concepts": [
+        {
+          "term": "Conducto de Wirsung",
+          "definition": "Conducto pancreático principal."
+        },
+        {
+          "term": "Conducto de Santorini",
+          "definition": "Conducto pancreático accesorio."
+        },
+        {
+          "term": "Ámpula de Vater",
+          "definition": "Confluencia de Wirsung y colédoco antes de entrar al duodeno."
+        },
+        {
+          "term": "Esfínter de Oddi",
+          "definition": "Esfínter hepatopancreático que regula la entrada de bilis y jugo pancreático al duodeno."
+        },
+        {
+          "term": "Islotes de Langerhans",
+          "definition": "Agrupaciones celulares con función endocrina del páncreas."
+        }
+      ],
+      "mnemonic": "Wirsung principal, Santorini accesorio, Vater entra al duodeno, Oddi controla. Aorta abdominal = TC + MS + MI.",
+      "image_ref": "Partes - Sistema Digestivo.pdf p.6-7 (páncreas y conductos)",
+      "questions": [
+        {
+          "id": "q20-1",
+          "type": "multiple",
+          "prompt": "¿Cuál es el conducto pancreático PRINCIPAL?",
+          "options": [
+            "Conducto de Santorini",
+            "Conducto de Wirsung",
+            "Conducto cístico",
+            "Conducto colédoco"
+          ],
+          "answer": 1,
+          "explanation": "El conducto principal es el de Wirsung; el accesorio es el de Santorini.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q20-2",
+          "type": "multiple",
+          "prompt": "¿Cómo se llama el esfínter que regula la entrada de bilis y jugo pancreático al duodeno?",
+          "options": [
+            "Esfínter de Oddi (hepatopancreático)",
+            "Esfínter pilórico",
+            "Esfínter ileocecal",
+            "Esfínter cricofaríngeo"
+          ],
+          "answer": 0,
+          "explanation": "El esfínter hepatopancreático (de Oddi) regula la entrada al duodeno desde el ámpula de Vater.",
+          "difficulty": "medio"
+        },
+        {
+          "id": "q20-3",
+          "type": "x",
+          "prompt": "Marque con X. La vena porta hepática se forma por la unión de:",
+          "options": [
+            "Vena cava inferior + vena renal",
+            "Vena mesentérica superior + vena esplénica",
+            "Vena mesentérica inferior + vena umbilical",
+            "Vena ácigos + vena hepática"
+          ],
+          "answer": 1,
+          "explanation": "La vena porta hepática se forma de la unión de la mesentérica superior con la esplénica.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q20-4",
+          "type": "pareo",
+          "prompt": "Pareo: relacione cada estructura pancreática con su función o naturaleza.",
+          "left": [
+            "Acinos",
+            "Islotes de Langerhans",
+            "Wirsung",
+            "Santorini"
+          ],
+          "right": [
+            "Conducto pancreático accesorio",
+            "Función endocrina",
+            "Conducto pancreático principal",
+            "Función exocrina (jugo pancreático)"
+          ],
+          "answer": [
+            3,
+            1,
+            2,
+            0
+          ],
+          "explanation": "Acinos = exocrino. Islotes Langerhans = endocrino. Wirsung = principal. Santorini = accesorio.",
+          "difficulty": "alto"
+        },
+        {
+          "id": "q20-5",
+          "type": "short",
+          "prompt": "Mencione las 3 ramas principales de la aorta abdominal para el tubo digestivo.",
+          "answer": "Tronco celíaco, arteria mesentérica superior y arteria mesentérica inferior",
+          "explanation": "La aorta abdominal da 3 ramas viscerales principales: tronco celíaco, mesentérica superior y mesentérica inferior.",
+          "difficulty": "medio"
+        }
+      ],
+      "images": [
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_06.png",
+          "caption": "Sistema biliar etiquetado (p.50): páncreas y conducto pancreático"
+        },
+        {
+          "src": "_images/Partes - Sistema Digestivo/page_07.png",
+          "caption": "Sistema biliar SIN etiquetas (p.51): localiza páncreas y conductos"
+        }
+      ]
+    }
+  ]
+}
