@@ -133,11 +133,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_02.png",
+          "src": "images/respiratorio/page_02.png",
           "caption": "Vista general etiquetada (p.56): localiza la nariz dentro del sistema respiratorio"
         },
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_03.png",
+          "src": "images/respiratorio/page_03.png",
           "caption": "Vista general SIN etiquetas (p.57): intenta nombrar las partes"
         }
       ]
@@ -229,11 +229,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_04.png",
+          "src": "images/respiratorio/page_04.png",
           "caption": "Sistema respiratorio superior etiquetado (p.58): cavidad nasal, meatos, paladar duro/blando"
         },
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_05.png",
+          "src": "images/respiratorio/page_05.png",
           "caption": "Sistema respiratorio superior SIN etiquetas (p.59): auto-evaluación"
         }
       ]
@@ -301,11 +301,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_04.png",
+          "src": "images/respiratorio/page_04.png",
           "caption": "Sistema respiratorio superior etiquetado (p.58): muestra senos nasales"
         },
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_05.png",
+          "src": "images/respiratorio/page_05.png",
           "caption": "Sistema respiratorio superior SIN etiquetas (p.59): identifica los senos paranasales"
         }
       ]
@@ -419,11 +419,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_04.png",
+          "src": "images/respiratorio/page_04.png",
           "caption": "Sistema respiratorio superior etiquetado (p.58): amígdalas faríngea/palatina/lingual + úvula"
         },
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_05.png",
+          "src": "images/respiratorio/page_05.png",
           "caption": "Sistema respiratorio superior SIN etiquetas (p.59): identifica las 3 porciones de la faringe"
         }
       ]
@@ -544,11 +544,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_04.png",
+          "src": "images/respiratorio/page_04.png",
           "caption": "Sistema respiratorio superior etiquetado (p.58): cartílago tiroides y cuerdas vocales"
         },
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_05.png",
+          "src": "images/respiratorio/page_05.png",
           "caption": "Sistema respiratorio superior SIN etiquetas (p.59): localiza la laringe"
         }
       ]
@@ -640,11 +640,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_06.png",
+          "src": "images/respiratorio/page_06.png",
           "caption": "Pulmones y árbol bronquial etiquetados (p.60): tráquea, cartílagos, bronquios primarios"
         },
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_07.png",
+          "src": "images/respiratorio/page_07.png",
           "caption": "Pulmones y árbol bronquial SIN etiquetas (p.61): nombra cada bronquio"
         }
       ]
@@ -779,11 +779,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_06.png",
+          "src": "images/respiratorio/page_06.png",
           "caption": "Pulmones etiquetados (p.60): 3 lóbulos D + 2 lóbulos I + concavidad cardíaca"
         },
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_07.png",
+          "src": "images/respiratorio/page_07.png",
           "caption": "Pulmones SIN etiquetas (p.61): identifica lóbulos y bronquios"
         }
       ]
@@ -852,11 +852,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_02.png",
+          "src": "images/respiratorio/page_02.png",
           "caption": "Vista general etiquetada (p.56): membranas pleurales, costillas y diafragma"
         },
         {
-          "src": "_images/Partes - Sistema Respiratorio/page_03.png",
+          "src": "images/respiratorio/page_03.png",
           "caption": "Vista general SIN etiquetas (p.57): identifica la pleura y caja torácica"
         }
       ]
@@ -926,11 +926,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "src": "images/digestivo/page_02.png",
           "caption": "Sistema digestivo completo etiquetado (p.46): boca → esófago → estómago → intestinos → recto"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_03.png",
+          "src": "images/digestivo/page_03.png",
           "caption": "Sistema digestivo SIN etiquetas (p.47): auto-evaluación"
         }
       ]
@@ -1018,11 +1018,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "src": "images/digestivo/page_02.png",
           "caption": "Sistema digestivo etiquetado (p.46): tubo de referencia para las 4 capas"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_03.png",
+          "src": "images/digestivo/page_03.png",
           "caption": "Sistema digestivo SIN etiquetas (p.47)"
         }
       ]
@@ -1151,11 +1151,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "src": "images/digestivo/page_02.png",
           "caption": "Sistema digestivo etiquetado (p.46): órganos que el peritoneo cubre"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_03.png",
+          "src": "images/digestivo/page_03.png",
           "caption": "Sistema digestivo SIN etiquetas (p.47)"
         }
       ]
@@ -1249,11 +1249,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_04.png",
+          "src": "images/digestivo/page_04.png",
           "caption": "Anatomía de la boca etiquetada (p.48): labios, dientes, úvula, arco palatofaríngeo, lengua"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_05.png",
+          "src": "images/digestivo/page_05.png",
           "caption": "Anatomía de la boca SIN etiquetas (p.49): identifica cada parte"
         }
       ]
@@ -1332,11 +1332,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_04.png",
+          "src": "images/digestivo/page_04.png",
           "caption": "Boca etiquetada (p.48): lengua, encías, frenillo labial"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_05.png",
+          "src": "images/digestivo/page_05.png",
           "caption": "Boca SIN etiquetas (p.49): localiza glándulas y partes de la lengua"
         }
       ]
@@ -1418,11 +1418,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_04.png",
+          "src": "images/digestivo/page_04.png",
           "caption": "Boca etiquetada (p.48): dientes en las arcadas superior e inferior"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_05.png",
+          "src": "images/digestivo/page_05.png",
           "caption": "Boca SIN etiquetas (p.49): cuenta y nombra los dientes"
         }
       ]
@@ -1539,11 +1539,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "src": "images/digestivo/page_02.png",
           "caption": "Sistema digestivo etiquetado (p.46): esófago entre faringe y estómago"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_03.png",
+          "src": "images/digestivo/page_03.png",
           "caption": "Sistema digestivo SIN etiquetas (p.47): traza el recorrido del esófago"
         }
       ]
@@ -1658,11 +1658,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_02.png",
+          "src": "images/digestivo/page_02.png",
           "caption": "Sistema digestivo etiquetado (p.46): estómago en cuadrante superior izquierdo"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_06.png",
+          "src": "images/digestivo/page_06.png",
           "caption": "Sistema biliar etiquetado (p.50): estómago y su relación con duodeno e hígado"
         }
       ]
@@ -1730,11 +1730,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_08.png",
+          "src": "images/digestivo/page_08.png",
           "caption": "Intestinos etiquetados (p.52): yeyuno, íleon y unión con el grueso"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_09.png",
+          "src": "images/digestivo/page_09.png",
           "caption": "Intestinos SIN etiquetas (p.53): identifica las porciones del delgado"
         }
       ]
@@ -1852,11 +1852,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_08.png",
+          "src": "images/digestivo/page_08.png",
           "caption": "Intestinos etiquetados (p.52): ciego, apéndice, colon, recto, ano"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_09.png",
+          "src": "images/digestivo/page_09.png",
           "caption": "Intestinos SIN etiquetas (p.53): nombra cada porción del colon"
         }
       ]
@@ -1978,11 +1978,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_06.png",
+          "src": "images/digestivo/page_06.png",
           "caption": "Sistema biliar etiquetado (p.50): hígado, vesícula, conducto cístico, duodeno"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_07.png",
+          "src": "images/digestivo/page_07.png",
           "caption": "Sistema biliar SIN etiquetas (p.51): identifica vías biliares"
         }
       ]
@@ -2109,11 +2109,11 @@
       ],
       "images": [
         {
-          "src": "_images/Partes - Sistema Digestivo/page_06.png",
+          "src": "images/digestivo/page_06.png",
           "caption": "Sistema biliar etiquetado (p.50): páncreas y conducto pancreático"
         },
         {
-          "src": "_images/Partes - Sistema Digestivo/page_07.png",
+          "src": "images/digestivo/page_07.png",
           "caption": "Sistema biliar SIN etiquetas (p.51): localiza páncreas y conductos"
         }
       ]
